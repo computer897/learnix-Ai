@@ -402,3 +402,5 @@ For issues, questions, or suggestions:
 **Made with ❤️ for students who want to study smarter, not harder!**
 
 *Learnix - Your AI-powered study companion* 🎓✨
+#   l e a r n i x - A i  
+ 
