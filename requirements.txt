@@ -23,7 +23,7 @@ PyPDF2
 #torch==2.2.2
 #numpy==1.26.4
 #requests==2.31.0
-torch==2.2.2
+torch==2.5.1
 transformers==4.39.3
 sentence-transformers==2.2.2
 qdrant-client==1.7.3
