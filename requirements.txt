@@ -12,3 +12,4 @@ qdrant-client
 transformers
 PyPDF2
 python-docx
+huggingface-hub==0.14.1
