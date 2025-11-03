@@ -10,7 +10,7 @@
 #sentence-transformers
 #qdrant-client
 #transformers
-#PyPDF2
+PyPDF2
 #python-docx
 #tokenizers==0.19.1
 #fastapi==0.110.1
