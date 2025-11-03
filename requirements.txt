@@ -13,3 +13,8 @@ transformers
 PyPDF2
 python-docx
 huggingface-hub==0.14.1
+transformers==4.39.3
+tokenizers==0.15.2
+sentence-transformers==2.2.2
+torch==2.2.2
+PyMuPDF
