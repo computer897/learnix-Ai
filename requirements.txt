@@ -23,13 +23,22 @@ PyPDF2
 #torch==2.2.2
 #numpy==1.26.4
 #requests==2.31.0
-torch==2.5.1
-transformers==4.39.3
-sentence-transformers==2.2.2
-qdrant-client==1.7.3
-fastapi==0.110.0
-uvicorn==0.29.0
+# Core web and backend
+fastapi==0.115.0
+uvicorn==0.30.6
 python-dotenv==1.0.1
-requests==2.31.0
-pydantic==2.8.2
+pydantic==2.9.2
+requests==2.32.3
+
+# AI / NLP
+torch==2.5.1
+transformers==4.45.2
+sentence-transformers==3.0.1
+
+# Vector database
+qdrant-client==1.9.1
+
+# Optional (if you use HuggingFace embedding)
+huggingface-hub==0.25.1
+
 
