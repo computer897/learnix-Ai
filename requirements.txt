@@ -6,7 +6,7 @@
 #numpy
 #python-dotenv
 #google-generativeai
-#gunicorn
+gunicorn
 #sentence-transformers
 #qdrant-client
 #transformers
