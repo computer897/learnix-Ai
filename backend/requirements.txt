@@ -1,0 +1,25 @@
+# Web framework
+fastapi==0.110.1
+uvicorn[standard]==0.29.0
+python-multipart
+aiofiles
+
+# Environment and HTTP
+python-dotenv==1.0.1
+requests==2.31.0
+
+# AI/ML
+google-generativeai
+
+# Vector database and embeddings
+torch==2.2.2
+transformers==4.39.3
+tokenizers==0.15.2
+sentence-transformers==2.2.2
+qdrant-client==1.7.3
+numpy==1.26.4
+
+# Document processing
+PyMuPDF==1.24.2
+PyPDF2
+python-docx
