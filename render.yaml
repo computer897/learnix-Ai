@@ -5,11 +5,11 @@ services:
     region: oregon
     plan: free
     rootDir: backend
-    buildCommand: pip install -r requirements.txt
+    buildCommand: pip install -r ../requirements.txt   # or move requirements.txt into backend/
     startCommand: uvicorn app:app --host 0.0.0.0 --port $PORT
     envVars:
       - key: PYTHON_VERSION
-        value: 3.9.18
+        value: 3.11.9
       - key: QDRANT_URL
         sync: false
       - key: QDRANT_API_KEY
