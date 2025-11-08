@@ -5,7 +5,7 @@
 #requests
 #numpy
 #python-dotenv
-#google-generativeai
+google-generativeai
 gunicorn
 #sentence-transformers
 #qdrant-client
