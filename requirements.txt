@@ -40,5 +40,7 @@ qdrant-client==1.9.1
 
 # Optional (if you use HuggingFace embedding)
 huggingface-hub==0.25.1
+python-multipart
+
 
 
