@@ -1,6 +1,6 @@
 // Learnix Frontend - Chat Interface
 
-const API_BASE = 'https://learnix-ai.onrender.com';
+const API_BASE = ' http://0.0.0.0:10000 ';
 
 // State
 let isDarkMode = localStorage.getItem('theme') === 'dark';
